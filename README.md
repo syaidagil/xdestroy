@@ -1,2 +1,2 @@
-# xdestroy
+
 syaidagil.github.io
